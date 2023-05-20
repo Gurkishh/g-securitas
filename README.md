@@ -4,6 +4,7 @@ Requirements
 
 
 evrp_billing
-Player management (boss actions and armory with buyable weapons)
+core tools 
+
 
 esx_society
